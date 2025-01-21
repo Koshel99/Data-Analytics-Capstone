@@ -9,6 +9,11 @@ For my final capstone project, I analyzed an ABC Bank dataset using Python to ex
 - **Strategic Solutions**: Recommendations based on the data findings.
 - **Predictive Model**: A Python-based predictive model to forecast future churn.
 
+## Screenshot
+Here’s a screenshot from the project:
+
+![ABC Bank Analysis Screenshot](screenshot1.png)
+
 ## Skills Used
 - Public Speaking
 - Strategic Data Analysis
